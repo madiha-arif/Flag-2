@@ -1,0 +1,31 @@
+.p{
+    border: 2px solid black;
+    display: inline-block;
+}
+.r{
+    height: 300px;
+    width: 550px;
+    background-color: #c0202d;
+}
+.w{
+    height: 100px;
+    width: 550px;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 430px;
+}
+.b{
+    height: 100px;
+    width: 552px;
+    background-color: #231f20;
+    position: absolute;
+    bottom: 330px;
+}
+img{
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    bottom: 100px;
+    top: 115px;
+    left: 235px;
+}
